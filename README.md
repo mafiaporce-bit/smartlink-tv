@@ -1,2 +1,0 @@
-# smartlink-tv
-remote tv
